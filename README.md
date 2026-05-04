@@ -1,36 +1,34 @@
-# Vidya 🪔
+# Vidya 
 ### Your AI Life Coach. You focus — she thinks.
 
 Vidya is a personal Android app built for one person on a mission. She runs your entire day — study sessions, meals, breaks, chores, sleep — so you never have to decide what to do next. You just execute.
-
-Built for: **Mithi**, preparing for SDE interviews on OPT.
 
 ---
 
 ## What Vidya Does
 
-### 🌅 Morning Check-In
+### Morning Check-In
 Every morning Vidya asks three questions: energy, mood, sleep. She uses your answers to calibrate the entire day — how long your study blocks are, how hard she pushes you, when to give you a break.
 
-### 📅 Daily Planning
+### Daily Planning
 After check-in, Vidya asks about your commitments for the day — appointments, calls, errands. She builds a personalized schedule around them. DSA is always the priority. Everything else fits around it.
 
-### 💬 Talk to Vidya
+### Talk to Vidya
 A persistent chat interface powered by Claude. She remembers your entire conversation history. She assigns specific LeetCode problems by number, redirects you when you're avoiding hard topics, and never gives empty motivation. She tells you the truth.
 
-### ⏱ Focus Timer
+### Focus Timer
 Vidya sets the timer — not you. The block length is based on your energy level from check-in. She sets the session goals (specific LeetCode problems), you check them off as you finish. She records completion timestamps silently and uses them to calibrate future sessions.
 
-### 📵 Distraction Monitoring
+### Distraction Monitoring
 Vidya runs as a background service. The moment you open Instagram, Facebook, YouTube, or TikTok, she fires a notification. She doesn't block the app — she makes it very hard to ignore that you're supposed to be somewhere else.
 
-### 🔔 Daily Alarms
+### Daily Alarms
 Real Android system notifications — not in-app pings. Wake up alarm, study blocks, meal timers, wind down. Set them once in the notifications screen. They fire every day.
 
-### 🌙 Nightly Recap
+### Nightly Recap
 At the end of the day, Vidya reviews what you did. She notes your study hours, problems solved, and streak. Her feedback is brief, specific, and earned. She never over-praises. She closes with one line that makes you want to do better tomorrow.
 
-### 📊 Dashboard
+### Dashboard
 A home screen with your live streak, today's study hours, problems solved, and full day schedule. Everything real — pulled from your actual data.
 
 ---
